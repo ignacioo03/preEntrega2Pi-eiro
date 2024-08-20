@@ -1,0 +1,28 @@
+.imagen-detalle {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;  
+    display: block; 
+    margin: 0 auto; 
+}
+
+.titulo-detalle {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: #F6CE77;
+    background-image: linear-gradient(62deg, #F6CE77 0%, #F2DFBB 100%);
+}
+.categoria, .precio, .stock {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: #F6CE77;
+    background-image: linear-gradient(62deg, #F6CE77 0%, #F2DFBB 100%);
+}

@@ -1,0 +1,155 @@
+[
+    {
+        "id": "fideos-01",
+        "titulo": "Fideos Spaghetti",
+        "categoria": "Fideos",
+        "precio": 50,
+        "imagen": "../images/spaghetti.jpg",
+        "descripcion": "Largos y delgados, ideales para salsas tradicionales.",
+        "stock": 10
+    },
+    {
+        "id": "fideos-02",
+        "titulo": "Fideos Penne Rigatti",
+        "categoria": "Fideos",
+        "precio": 55,
+        "imagen": "../images/pennerigatti.jfif",
+        "descripcion": "Tubulares con estrías, perfectos para salsas espesas.",
+        "stock": 10
+    },
+    {
+        "id": "fideos-03",
+        "titulo": "Fideos Mostacholes",
+        "categoria": "Fideos",
+        "precio": 60,
+        "imagen": "../images/mostacholes.jpeg",
+        "descripcion": "Tubos cortos y curvos, excelentes para hornear.",
+        "stock": 10
+    },
+    {
+        "id": "fideos-04",
+        "titulo": "Fideos Fetuccini",
+        "categoria": "Fideos",
+        "precio": 100,
+        "imagen": "../images/fetuccini.jpeg",
+        "descripcion": "Cintas anchas y planas, combinan bien con salsas cremosas",
+        "stock": 10
+    },
+    {
+        "id": "fideos-05",
+        "titulo": "Fideos Cabello De Angel",
+        "categoria": "Fideos",
+        "precio": 110,
+        "imagen": "../images/cabelloangel.jpg",
+        "descripcion": "Fideos finísimos, ideales para sopas ligeras.",
+        "stock": 10
+    },
+    {
+        "id": "ravioles-01",
+        "titulo": "Ravioles de Ricota y verduras",
+        "categoria": "Ravioles",
+        "precio": 120,
+        "imagen": "../images/ricotaverdura.jpg",
+        "descripcion": "Relleno cremoso y vegetal, clásico y suave.",
+        "stock": 10
+    },
+    {
+        "id": "ravioles-02",
+        "titulo": "Ravioles de Verduras y arroz",
+        "categoria": "Ravioles",
+        "precio": 30,
+        "imagen": "../images/verdurasarroz.jpg",
+        "descripcion": "Relleno Ligero y nutritivo, con un toque de arroz",
+        "stock": 10
+    },
+    {
+        "id": "ravioles-03",
+        "titulo": "Ravioles de Jamón y Queso",
+        "categoria": "Ravioles",
+        "precio": 35,
+        "imagen": "../images/jamonYQueso.jpg",
+        "descripcion": "Relleno con un Sabor tradicional, suave y sabroso.",
+        "stock": 10
+    },
+    {
+        "id": "ravioles-04",
+        "titulo": "Ravioles de Vacio y Verduras",
+        "categoria": "Ravioles",
+        "precio": 40,
+        "imagen": "../images/vacio.jpeg",
+        "descripcion": "Relleno sustancioso, con carne y vegetales.",
+        "stock": 10
+    },
+    {
+        "id": "ravioles-05",
+        "titulo": "Ravioles de Calabaza y Muzzarela",
+        "categoria": "Ravioles",
+        "precio": 65,
+        "imagen": "../images/calabaza.jpg",
+        "descripcion": "Relleno suave y dulce, con un toque de queso cremoso.",
+        "stock": 10
+    },
+    {
+        "id": "salsa-01",
+        "titulo": "Salsa Bolognesa",
+        "categoria": "Salsas",
+        "precio": 115,
+        "imagen": "../images/salsa-bolognesa.jpg",
+        "descripcion": "Sabor intenso con carne, tomate y especias.",
+        "stock": 10
+    },
+    {
+        "id": "salsa-02",
+        "titulo": "Salsa Crema y Champiñones",
+        "categoria": "Salsas",
+        "precio": 32,
+        "imagen": "../images/champiñones.jfif",
+        "descripcion": " Suave y cremosa, con un toque de champiñones.",
+        "stock": 10
+    },
+    {
+        "id": "salsa-03",
+        "titulo": "Salsa Pesto",
+        "categoria": "Salsas",
+        "precio": 40,
+        "imagen": "../images/pesto.jpg",
+        "descripcion": "Fresca y aromática, con albahaca, ajo y piñones.",
+        "stock": 10
+    },
+    {
+        "id": "especiales-01",
+        "titulo": "Lasagna",
+        "categoria": "Especiales",
+        "precio": 30,
+        "imagen": "../images/lasagna.jpg",
+        "descripcion": " Capas de pasta, carne, salsa y queso, para hornear hasta dorar",
+        "stock": 10
+    },
+    {
+        "id": "especiales-02",
+        "titulo": "Panzotti",
+        "categoria": "Especiales",
+        "precio": 40,
+        "imagen": "../images/panzotti.jfif",
+        "descripcion": "Pasta rellena, en forma de media luna, con diversos sabores.",
+        "stock": 10
+    },
+    {
+        "id": "especiales-03",
+        "titulo": "Cappeletti",
+        "categoria": "Especiales",
+        "precio": 35,
+        "imagen": "../images/cappeletti.jpg",
+        "descripcion": "Pequeñas y rellenas, con forma de sombrerito, para sopas o salsas.",
+        "stock": 10
+    },
+    {
+        "id": "especiales-04",
+        "titulo": "Ñoquis Rellenos",
+        "categoria": "Especiales",
+        "precio": 35,
+        "imagen": "../images/ñoquisrellenos.jpg",
+        "descripcion": "Suaves, con un centro cremoso de queso fundido.",
+        "stock": 10
+    }
+]

@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 0px 30px 0px;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+    background-color: #F6CE77;
+    background-image: linear-gradient(62deg, #F6CE77 0%, #F2DFBB 100%);
+    
+
+}
+
+.container h1 {
+    margin-bottom: 20px;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+.item {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 20px; 
+    margin-bottom: 20px; 
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px; 
+}
+
+.text-container {
+    display: flex;
+    flex-direction:column ; 
+    text-align: left;
+    margin-left: 20px;
+    
+    
+}
+
+.item h3, .item .precio {
+    margin: 5px 0; 
+}
+
+.imagen {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    object-position: center;
+    margin-left: 40px;
+}
+
+.titulo-ilc {
+    color:black;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: #F6CE77;
+    background-image: linear-gradient(62deg, #F6CE77 0%, #F2DFBB 100%);
+    
+}
